@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutZippedCsv", "OutZippedCsv\OutZippedCsv.csproj", "{D551B853-EA2E-4C55-9FCE-35AB6C7ABAD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D551B853-EA2E-4C55-9FCE-35AB6C7ABAD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D551B853-EA2E-4C55-9FCE-35AB6C7ABAD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D551B853-EA2E-4C55-9FCE-35AB6C7ABAD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D551B853-EA2E-4C55-9FCE-35AB6C7ABAD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
